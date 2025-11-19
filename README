@@ -1,0 +1,16 @@
+Hi.
+
+I originally wanted to make an `ls` clone that requires a 4GB Docker container
+to run, just like the industry standard. But I got tired and accidentally
+wrote it in 69 lines of C instead.
+
+I am deeply sorry for the fast execution times. I will try to add
+more lag in the next version.
+
+If you know how to make these files bigger without actually adding any value,
+please PR. I'm trying to get the file size of `true` up to at least
+10 megabytes so people take me seriously as a developer.
+
+Enjoy.
+
+- the bloatutils guy
