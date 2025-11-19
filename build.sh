@@ -16,5 +16,8 @@ echo " - bloat-false built."
 cc -o ./build/bloat-echo ./src/echo.c
 echo " - bloat-echo built."
 
+cc -o ./build/bloat-cat ./src/cat.c
+echo " - bloat-cat built."
+
 echo "Done."
 echo "Sorry that didn't take longer."
